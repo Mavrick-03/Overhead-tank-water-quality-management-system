@@ -15,3 +15,4 @@ Overall, this project not only enhances the monitoring capabilities for overhead
 
 Below is the link to the wokwi simulation of the project:
 https://wokwi.com/projects/375226115836519425
+The @main.ino file contains all of the source code feel free to pull and modify it accoding to your own prefrence
