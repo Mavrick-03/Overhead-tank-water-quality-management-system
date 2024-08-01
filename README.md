@@ -13,3 +13,5 @@ One of the key features of the system is its ability to send alerts if any of th
 
 Overall, this project not only enhances the monitoring capabilities for overhead tanks but also contributes to better water management and safety.
 
+Below is the link to the wokwi simulation of the project:
+https://wokwi.com/projects/375226115836519425
